@@ -118,3 +118,4 @@ After you’ve cleaned your data and are ready to start crunching numbers, you s
 
 
 # Video Game Sales
+![VideoGameSales_Overview](https://github.com/Khoi-Duong/VideoGameSales/assets/119692456/eb7224d2-7fda-4eec-b185-1b1c5e75e50d)
