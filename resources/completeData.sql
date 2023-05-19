@@ -48,5 +48,6 @@ SELECT vgi.uniqueid,vgi.name, vgi.yearreleased, vgi.genre, vgi.publisher, vgi.de
 FROM video_game_sales AS vgs JOIN video_game_info AS vgi
 ON vgs.uniqueid = vgi.uniqueid
 JOIN video_game_scores AS vgsc
-ON vgsc.uniqueid= vgi.uniqueid
-SELECT * FROM completedata
+ON vgsc.uniqueid= vgi.uniqueid;
+
+SELECT * FROM completedata;
